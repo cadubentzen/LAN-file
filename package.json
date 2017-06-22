@@ -1,0 +1,29 @@
+{
+  "name": "lan-file",
+  "version": "0.0.1",
+  "description": "Share files to local network via http",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadubentzen/LAN-file.git"
+  },
+  "keywords": [
+    "express",
+    "lan",
+    "file",
+    "share",
+    "http"
+  ],
+  "author": "Carlos E R B Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cadubentzen/LAN-file/issues"
+  },
+  "homepage": "https://github.com/cadubentzen/LAN-file#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
